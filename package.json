@@ -1,0 +1,16 @@
+{
+  "name": "nft-rarity-calculator",
+  "version": "1.0.0",
+  "description": "An NFT rarity calculator.",
+  "main": "rarity.js",
+  "scripts": {
+    "get_rarity": "node rarity.js",
+    "rarity_rank": "node rarity_rank.js"
+  },
+  "author": "Jesse Hall (codeSTACKr)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "dotenv": "^16.0.0"
+  }
+}
