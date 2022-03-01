@@ -4,7 +4,7 @@ This project will allow you to calculate rarities from any NFT Collection on the
 
 ## Video Walkthrough
 
-***ADD VIDEO HERE***
+[![Thumbnail](https://img.youtube.com/vi/Uz1y4j9gvP8/maxresdefault.jpg)](https://youtu.be/Uz1y4j9gvP8)
 
 ## Installation
 
