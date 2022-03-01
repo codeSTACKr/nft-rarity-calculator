@@ -6,6 +6,14 @@ This project will allow you to calculate rarities from any NFT Collection on the
 
 [![Thumbnail](https://img.youtube.com/vi/Uz1y4j9gvP8/maxresdefault.jpg)](https://youtu.be/Uz1y4j9gvP8)
 
+## Check out the collection I made: 
+
+▶ https://codecats.xyz
+
+▶ [On OpenSea](https://bit.ly/CodeCats)
+
+🧑🏾‍🤝‍🧑🏽 Join my Discord community: https://discord.gg/A9CnsVzzkZ
+
 ## Installation
 
 1. Clone or download the .zip and unzip
